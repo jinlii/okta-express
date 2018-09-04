@@ -1,0 +1,16 @@
+{
+  "name": "okta",
+  "version": "1.0.0",
+  "description": "okta sso",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jin",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/jwt-verifier": "0.0.12",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
